@@ -16,7 +16,7 @@ A premium UI/UX design exploration for **Nike Air**, meticulously crafted in **F
 ##  Tools Used
 
 - **Figma**: Primary design and prototyping tool.
-- **Adobe Photoshop**: Image processing and retouching (if applicable).
+- **Adobe Photoshop**: Image processing and retouching.
 
 ---
 
